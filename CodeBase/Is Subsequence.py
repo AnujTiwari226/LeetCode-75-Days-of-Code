@@ -18,7 +18,6 @@ class Solution:
         return len(s) == i
 
 
-
 if __name__ == '__main__':
     """
     Given two strings s and t, return true if s is a subsequence of t, or false otherwise.
